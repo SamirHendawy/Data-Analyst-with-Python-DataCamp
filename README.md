@@ -21,3 +21,6 @@ Data Analyst with Python Projects
 - [Visualizing the History of Nobel Prize Winners](https://github.com/SamirHendawy/Data-Analyst-with-Python-DataCamp/tree/main/Visualizing%20the%20History%20of%20Nobel%20Prize%20Winners)
 - [Analyzing Crime in Los Angeles](https://github.com/SamirHendawy/Data-Analyst-with-Python-DataCamp/tree/main/Analyzing%20Crime%20in%20Los%20Angeles)
 - [Hypothesis Testing with Men's and Women's Soccer Matches](https://github.com/SamirHendawy/Data-Analyst-with-Python-DataCamp/tree/main/Hypothesis%20Testing%20with%20Men's%20and%20Women's%20Soccer%20Matches)
+
+## Certificate
+<img src="certificate.jpg">
