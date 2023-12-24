@@ -14,3 +14,6 @@ Data Analyst with Python Projects
 
 ## SKILL ASSESSMENT
 <img src="skill assessment.png">
+
+## Projects
+- [Investigating Netflix Movies](https://github.com/SamirHendawy/Data-Analyst-with-Python-DataCamp/tree/main/Project%20Investigating%20Netflix%20Movies)
